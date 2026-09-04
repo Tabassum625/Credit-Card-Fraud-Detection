@@ -23,6 +23,13 @@ This project focuses on detecting fraudulent credit card transactions using mach
 * **0** → Legitimate Transaction
 * **1** → Fraudulent Transaction
 
+Due to GitHub file size limitations, the dataset is not included in this repository.
+
+Dataset: Credit Card Fraud Detection (Machine Learning Group – ULB)
+
+Download: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+
 ## 🛠️ Technologies Used
 
 * Python
